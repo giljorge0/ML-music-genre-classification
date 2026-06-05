@@ -139,21 +139,24 @@ Mechanisms.
 
 ## References
 
-[1] G. Brown, A. Pocock, M.-J. Zhao, M. Luján. Conditional likelihood
+[1] I. Guyon and A. Elisseeff. An introduction to variable and feature selection.
+Journal of Machine Learning Research, 3(Mar):1157–1182, 2003.
+
+[2] G. Brown, A. Pocock, M.-J. Zhao, M. Luján. Conditional likelihood
     maximisation: A unifying framework for information theoretic feature
     selection. JMLR, 13, 27–66, 2012.
 
-[2] Prediction of music genre [Dataset]. Kaggle Repository.
+[3] Prediction of music genre [Dataset]. Kaggle Repository.
     https://www.kaggle.com/datasets/vicsuperman/prediction-of-music-genre/data
 
-[3] F. Macedo, R. Valadas, E. Carrasquinha, M. R. Oliveira, A. Pacheco.
+[4] F. Macedo, R. Valadas, E. Carrasquinha, M. R. Oliveira, A. Pacheco.
     Feature selection using Decomposed Mutual Information Maximization.
     Neurocomputing, 513, 215–232, 2022.
 
-[4] C. Pascoal, M. R. Oliveira, A. Pacheco, R. Valadas. Theoretical
+[5] C. Pascoal, M. R. Oliveira, A. Pacheco, R. Valadas. Theoretical
     evaluation of feature selection methods based on mutual information.
     Neurocomputing, 226(1), 168–181, 2017.
 
-[5] R. Suter, D. Miladinovic, B. Schölkopf, S. Bauer. Robustly
+[6] R. Suter, D. Miladinovic, B. Schölkopf, S. Bauer. Robustly
     Disentangled Causal Mechanisms: Validating Deep Representations for
     Interventional Robustness. ICML 2019, PMLR 97.
