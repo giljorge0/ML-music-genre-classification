@@ -1,5 +1,5 @@
 # Project 1: Dimension Reduction in Classification
-## Mathematics for Machine Learning (MMAC)
+## Mathematics for Machine Learning (MMAC-Ist Lisbon)- best grade in the cohort
 
 
 The notebook is organized into the following sections:
